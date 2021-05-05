@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "This is test for creating sample js library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyasri2108/MySample.git"
+  },
+  "keywords": [
+    "Sample"
+  ],
+  "author": "Bhagya Sri <sri.raavi22@gmail.com> (https://github.com/bhagyasri2108)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhagyasri2108/MySample/issues"
+  },
+  "homepage": "https://github.com/bhagyasri2108/MySample#readme"
+}
