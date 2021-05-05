@@ -1,5 +1,7 @@
-var sample = require('./lib/samplejs.js');
+import testSuccessResponse from './lib/testSuccessResponse.js';
 
-module.exports={
-    all: sample
+const sample = {
+	testSuccessResponse
 };
+
+export default sample;
